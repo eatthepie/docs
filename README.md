@@ -1,6 +1,6 @@
 # ⚠️ WARNING: Deprecated
 
-This repo is the docs for an old deprecated version of Eat The Pie. For docs to the latest version of Eat The Pie, visit [Docs V2](https://github.com/eatthepie/docs-v2)
+This repo is for an old deprecated version of Eat The Pie. For docs to the latest version of Eat The Pie, visit [Docs V2](https://github.com/eatthepie/docs-v2)
 
 ![Eat The Pie](https://github.com/eatthepie/docs/blob/main/static/img/header.png)
 
