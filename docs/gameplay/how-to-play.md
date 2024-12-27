@@ -1,5 +1,9 @@
 # How To Play
 
+:::warning
+These docs are for V1 of Eat The Pie, which is now deprecated. For the latest documentation for V2 on World Chain, please visit [docs.eatthepie.xyz](https://docs.eatthepie.xyz).
+:::
+
 To participate in the lottery, you have a few options:
 
 1. **Web Interface** 🌐

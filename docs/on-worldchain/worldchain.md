@@ -2,6 +2,10 @@
 sidebar_label: Live on World Chain
 ---
 
+:::warning
+These docs are for V1 of Eat The Pie, which is now deprecated. For the latest documentation for V2 on World Chain, please visit [docs.eatthepie.xyz](https://docs.eatthepie.xyz).
+:::
+
 # Layer 2 Deployment
 
 Eat the Pie is now also available on World Chain (an Ethereum L2), offering the same lottery experience at a more affordable price point.

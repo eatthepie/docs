@@ -1,5 +1,9 @@
 # Odds of Winning
 
+:::warning
+These docs are for V1 of Eat The Pie, which is now deprecated. For the latest documentation for V2 on World Chain, please visit [docs.eatthepie.xyz](https://docs.eatthepie.xyz).
+:::
+
 ## 🎚️ Game Difficulty Levels
 
 Eat the Pie features a dynamic difficulty system to keep the game exciting. The difficulty affects the range of numbers you can choose from:

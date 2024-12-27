@@ -1,5 +1,9 @@
 # Open and Permanent Code
 
+:::warning
+These docs are for V1 of Eat The Pie, which is now deprecated. For the latest documentation for V2 on World Chain, please visit [docs.eatthepie.xyz](https://docs.eatthepie.xyz).
+:::
+
 The Eat The Pie lottery system is built on the principles of transparency, security, and immutability. These fundamentals are essential for user trust and long-term system integrity.
 
 ## 📖 Open Source Foundation

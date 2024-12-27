@@ -1,5 +1,9 @@
 # Prize & NFT Commands
 
+:::warning
+These docs are for V1 of Eat The Pie, which is now deprecated. For the latest documentation for V2 on World Chain, please visit [docs.eatthepie.xyz](https://docs.eatthepie.xyz).
+:::
+
 <details>
 <summary><h3>💰 Claim Prize</h3>Claim your winnings from a game you've won.</summary>
 

@@ -1,5 +1,9 @@
 # Drawing Numbers
 
+:::warning
+These docs are for V1 of Eat The Pie, which is now deprecated. For the latest documentation for V2 on World Chain, please visit [docs.eatthepie.xyz](https://docs.eatthepie.xyz).
+:::
+
 ## 🎯 Introduction
 
 At the heart of every lottery is its random number generation - the crucial mechanism that determines winners. While traditional lotteries rely on central authorities, Eat the Pie harnesses Ethereum's decentralized network of validators and Verifiable Delay Functions (VDFs) to ensure true randomness. This creates a provably fair system where no single entity can influence the outcome.

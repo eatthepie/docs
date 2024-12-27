@@ -1,5 +1,9 @@
 # NFT
 
+:::warning
+These docs are for V1 of Eat The Pie, which is now deprecated. For the latest documentation for V2 on World Chain, please visit [docs.eatthepie.xyz](https://docs.eatthepie.xyz).
+:::
+
 Github Link: [https://github.com/eatthepie/contracts/blob/main/src/NFTPrize.sol](https://github.com/eatthepie/contracts/blob/main/src/NFTPrize.sol)
 
 The NFT contract implements an ERC721 contract to mint NFTs for jackpot winners. Each NFT features dynamically generated SVG artwork displaying the winning numbers in a unique quadrant-based design.

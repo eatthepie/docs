@@ -1,5 +1,9 @@
 # Prize Pool
 
+:::warning
+These docs are for V1 of Eat The Pie, which is now deprecated. For the latest documentation for V2 on World Chain, please visit [docs.eatthepie.xyz](https://docs.eatthepie.xyz).
+:::
+
 Prize pool is made up of all the ticket purchases for the game. Here's how the prize pool gets distributed:
 
 ## 💰 Prize Categories

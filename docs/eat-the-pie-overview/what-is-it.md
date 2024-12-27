@@ -3,6 +3,10 @@ slug: /
 sidebar_label: Overview
 ---
 
+:::warning
+These docs are for V1 of Eat The Pie, which is now deprecated. For the latest documentation for V2 on World Chain, please visit [docs.eatthepie.xyz](https://docs.eatthepie.xyz).
+:::
+
 # Eat the Pie: The World Lottery on Ethereum
 
 Welcome to Eat the Pie — a fully autonomous lottery protocol powered by blockchain technology. Built on Ethereum's security and driven by Verifiable Delay Functions (VDFs), the system ensures complete transparency and verifiable randomness. Every draw is autonomous, every transaction is traceable, and participation is open to all. Let's dive into how everything works.

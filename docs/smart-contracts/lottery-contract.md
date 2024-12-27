@@ -1,5 +1,9 @@
 # Lottery
 
+:::warning
+These docs are for V1 of Eat The Pie, which is now deprecated. For the latest documentation for V2 on World Chain, please visit [docs.eatthepie.xyz](https://docs.eatthepie.xyz).
+:::
+
 Github Link: [https://github.com/eatthepie/contracts/blob/main/src/Lottery.sol](https://github.com/eatthepie/contracts/blob/main/src/Lottery.sol)
 
 This contract implements the core features of the Eat The Pie lottery.

@@ -1,5 +1,9 @@
 # Rules
 
+:::warning
+These docs are for V1 of Eat The Pie, which is now deprecated. For the latest documentation for V2 on World Chain, please visit [docs.eatthepie.xyz](https://docs.eatthepie.xyz).
+:::
+
 Like Ethereum itself, Eat the Pie never pauses. When one game ends, the next one automatically begins, ensuring there's always an active round to join.
 
 ## 🕒 Game Duration and Prize Pool

@@ -1,5 +1,9 @@
 # Core Game Commands
 
+:::warning
+These docs are for V1 of Eat The Pie, which is now deprecated. For the latest documentation for V2 on World Chain, please visit [docs.eatthepie.xyz](https://docs.eatthepie.xyz).
+:::
+
 <details>
 <summary><h3>🎟️ Buy Tickets</h3>Purchase your lottery tickets with custom or auto-generated numbers.</summary>
 

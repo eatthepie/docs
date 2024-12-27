@@ -6,7 +6,7 @@ const config: Config = {
   title: "Eat The Pie Docs",
   tagline: "The world lottery on Ethereum",
   favicon: "img/favicon.ico",
-  url: "https://docs.eatthepie.xyz",
+  url: "https://docs-v1.eatthepie.xyz",
   baseUrl: "/",
   organizationName: "eatthepie",
   projectName: "docs",

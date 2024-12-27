@@ -1,5 +1,9 @@
 # Install
 
+:::warning
+These docs are for V1 of Eat The Pie, which is now deprecated. For the latest documentation for V2 on World Chain, please visit [docs.eatthepie.xyz](https://docs.eatthepie.xyz).
+:::
+
 1. Install [Node.js LTS](https://nodejs.org/) first (if you haven't!)
 
 2. Install our command line app:
